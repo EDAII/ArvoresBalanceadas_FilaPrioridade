@@ -6,6 +6,8 @@
 | 20/2046229 | Kallyne Macêdo Passos |  
 | 20/0022199 | Leonardo Sobrinho de Aguiar | 
 
+Dupla: 18 
+
 ## Descrição do projeto
 
 Este projeto é um visualizador interativo que demonstra o funcionamento de uma **Árvore Red-Black (Rubro-Negra)** utilizada como uma Fila de Prioridade. A aplicação permite que o usuário adicione "tarefas" com diferentes níveis de prioridade, que são armazenadas e gerenciadas pela Árvore Red-Black no backend, com o objetivo de fornecer uma visualização da eficiência de árvores auto-balanceadas. Assim, o simulador mostra como a árvore garante performance de **$O(\log n)$** para inserções e para extrair o item de maior prioridade, mesmo sob carga constante.
@@ -24,7 +26,7 @@ A aplicação conta com dois modos de uso:
 
 ### 1. Clonar repositório:
 ```bash
-git clone https://github.com/EDAII/Busca_Autocomplete.git
+git clone https://github.com/EDAII/ArvoresBalanceadas_FilaPrioridade.git
 ```
 ### 2. Instale as Dependências:
 Abra um terminal ou prompt de comando na pasta do projeto e execute:
@@ -68,4 +70,4 @@ A aplicação permite comparar, implicitamente, o desempenho da RBT com o que se
 
 ## Gravação 
 
-[Link da gravação](https://youtu.be/BBaPR1yHK2E)
+[Link da gravação](https://youtu.be/bSKsdaWjBRc)
